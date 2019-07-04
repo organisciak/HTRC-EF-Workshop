@@ -1,0 +1,11 @@
+name: ef-workshop
+channels:
+  - htrc
+  - conda-forge
+dependencies:
+  - htrc-feature-reader
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - rsync
