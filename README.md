@@ -1,6 +1,6 @@
 # HTRC-EF-Workshop
 
-July 4, 2019
+July 5, 2019
 
 Welcome!
 
