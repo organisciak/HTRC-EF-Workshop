@@ -8,6 +8,10 @@ If you are reading this as one of our learners, you should navigate to: http://b
 
 There is some extra content in the notebooks in case it comes up, but most of this is labeled as bonus or background.
 
+# Some example projects using this dataset
+
+https://docs.google.com/document/d/1kvB1tuULeFRxiGvaKYcAXs76P-m1XE3qjFqZamuGyxo/edit
+
 # Brief and hedgie agenda
 
 * 09:45 Coffees on arrival
